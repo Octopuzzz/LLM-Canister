@@ -1,5 +1,4 @@
-# Motoko dependencies (https://mops.one/)
-
 [dependencies]
-base = "0.14.9"
+base = "0.14.14"
 llm = "2.1.0"
+motoko-base = "https://github.com/dfinity/motoko-base#master@bff049d57bc693b6f0098c7e0d848668c4a3bab2"
